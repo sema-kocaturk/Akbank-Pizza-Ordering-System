@@ -1,0 +1,15 @@
+
+    Please Choose a Pizza Base: 
+    1: Classic Pizza 80 ₺
+    2: Margherita Pizza 100 ₺
+    3: Turkish Pizza 120 ₺
+    4: Dominos Pizza 140 ₺
+    * and sauce of your choice: 
+    11: Olives +4.90 ₺
+    12: Mushrooms +4.90 ₺
+    13: Goat Cheese +12.90 ₺
+    14: Meat +14.90 ₺
+    15: Onions +4.90 ₺
+    16: Corn +4.90 ₺
+    * Thank you!
+    
